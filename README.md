@@ -1,1 +1,1 @@
-# JUST-CHAT-Personal-Chat-Server
+# JUST-CHAT : Personal Chat Server
